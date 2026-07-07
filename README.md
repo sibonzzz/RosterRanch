@@ -1,1 +1,1 @@
-It's like roster ranch from champions but a website and doesn't cost VP
+It's like roster ranch from champions but a website and doesn't cost VP. Made with love and 4 Claude prompts
